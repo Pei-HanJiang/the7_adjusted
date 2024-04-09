@@ -177,7 +177,7 @@ blockquote p {
 }
 
 .btn:hover, .btn:focus, .btn-current {
-  color: #fff;
+  color: #bbbbbb;
   background: #16a085;
 }
 
